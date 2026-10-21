@@ -1,0 +1,15 @@
+torch
+torchaudio
+
+# Audio processing and subtitle parsing
+pydub
+pysrt
+
+# Vocal/background source separation
+demucs
+
+# Text-to-speech generation
+chatterbox-tts
+
+# Speech denoising and enhancement
+resemble-enhance
